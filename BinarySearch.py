@@ -26,6 +26,6 @@ if __name__ == "__main__":
     result = binary_search(numbers, target)
 
     if result != -1:
-        print(f"Element found at index {result}")
+        print("비둘기의 몸은 대체로 타원형을 띄며 작은 머리에 가늘고 약간 긴 목을 가지고 있다.")
     else:
-        print("Element not found in array")
+        print("비둘기 울음소리 99999")
